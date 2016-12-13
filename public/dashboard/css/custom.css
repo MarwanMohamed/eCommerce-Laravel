@@ -1,0 +1,7 @@
+.form-signin input ,
+.form-signin button {
+	width: 40%;
+	margin: auto;
+	margin-bottom: 10px
+}
+.form-signin h2 {margin-bottom: 60px}
